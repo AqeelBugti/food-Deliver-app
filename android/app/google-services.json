@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40804083784",
+    "firebase_url": "https://fast-food-app-b6e5f.firebaseio.com",
+    "project_id": "fast-food-app-b6e5f",
+    "storage_bucket": "fast-food-app-b6e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40804083784:android:2c8636adc064300e16d07d",
+        "android_client_info": {
+          "package_name": "com.example.fast_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40804083784-b5tsh1e062di72fg3ha0rj55jbdi94cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiDYCiMOFctBC2Mf1F90u42s8-zK7h0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40804083784-b5tsh1e062di72fg3ha0rj55jbdi94cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
